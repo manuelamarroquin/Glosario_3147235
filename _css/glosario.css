@@ -1,0 +1,43 @@
+body {
+    padding: 0 20px;
+    background-color: #f0f0f0;
+}
+
+header {
+    padding: 20px 0;
+    text-align: center;
+    background-color: #c342ff;
+    color: white;
+}
+
+nav {
+    padding: 15px;
+    text-align: center;
+    background-color: #e0e0e0;
+}
+
+nav a {
+    margin: 4px;
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color: #ae00ff;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+main {
+    padding: 50px 0;
+}
+
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+section h2 {
+    color: #a200ff;
+}
