@@ -41,3 +41,11 @@ section {
 section h2 {
     color: #a200ff;
 }
+
+footer {
+    background-color: #a200ff;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
